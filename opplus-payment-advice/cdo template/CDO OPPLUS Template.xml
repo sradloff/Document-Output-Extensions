@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EMailTemplates>
+  <Template Code="OPPLUS" TemplateVariantFieldNo="0" DimensionCode="" ReportID="5157893" Engine="6" PrinterName="" GetEMailsFromTableNo="5157896" GetEMailsFromFieldType="0" GetEMailsFromFieldNo="5157896,1,23,102" EMailIsMandatory="false" FromEMail="0" FromEMailAddress="continia.training@gmail.com" FromEMailName="" FixedCc="" FixedBcc="" LogEMails="true" DocumentGroup="" SMTPServer="" SMTPTemplate="0" OnEMailSMTP="0" OpenEMailWith="0" DocumentFolder="" DoNotSaveToDocFolder="false" IncludeDocumentAttachements="false" IncludeDocumentLineAttachments="false" LinkedTo="2" LinkedToFieldNo="1" CombineDocumentsToOnePDF="0" KeepEMailLogFor="" PDFSignFileName="" PDFSignReason="" PDFSignLocation="">
+    <TemplateLine Enabled="true" LanguageCode="" TemplateVariantFieldNo="0" TemplateVariantValueCode="" DimensionCode="" FileName="Zahlungsavis-%2.pdf" CombinedDocsFileName="" MailFormat="0" MailImportance="1" FromEMailAddress="" FromEMailName="" BackgroundPDFFilename="" MergePDFFilename="" AttachOpenDocuments="false" AttachOpenDocFileName="" AttachOpenDocFilter="0" EDocumentFileName="" UseOutlookSignature="false" UseHtmlTemplateInOutlook="false" FixedCc="" FixedBcc="" DocumentFolder="" DoNotSaveToDocFolder="false" DocumentAttachmentsFilter="" ShowRequestPage="false" PrintUses="0">
+      <Subject>VGVzdCBaYWhsdW5nc2F2aXM=</Subject>
+      <HTMLEMailTemplate>PGh0bWw+PGhlYWQ+PHN0eWxlPmJvZHkge2ZvbnQtZmFtaWx5OiBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDEzcHg7fTwvc3R5bGU+PC9oZWFkPjxib2R5PjxkaXY+R3V0ZW4gVGFnLDwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+YW5iZWkgZXJoYWx0ZW4gU2llIGRhcyBaYWhsdW5nc2F2aXMgw7xiZXIgJTEwIOKCrC48L2Rpdj48L2JvZHk+PC9odG1sPg==</HTMLEMailTemplate>
+    </TemplateLine>
+    <MergeField ShowText="" WebAddress="" Type="0" CodeunitID="0" CodeunitParameter="" ValueFromTableFieldArray="5157896,1" GetFromFieldNo="0" GetFromTableNo="5157896" GetFieldFrom="0" Description="Vendor No." Number="1"></MergeField>
+    <MergeField ShowText="" WebAddress="" Type="0" CodeunitID="0" CodeunitParameter="" ValueFromTableFieldArray="5157896,2" GetFromFieldNo="0" GetFromTableNo="5157896" GetFieldFrom="0" Description="Vendor Name" Number="2"></MergeField>
+    <MergeField ShowText="" WebAddress="" Type="0" CodeunitID="0" CodeunitParameter="" ValueFromTableFieldArray="5157896,27" GetFromFieldNo="0" GetFromTableNo="5157896" GetFieldFrom="0" Description="Payment Amount" Number="10"></MergeField>
+  </Template>
+</EMailTemplates>
