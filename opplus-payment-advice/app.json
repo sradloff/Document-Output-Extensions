@@ -1,0 +1,39 @@
+{
+  "id": "179fdd98-6dcc-4c7a-8ec2-3a1fb2774ae5",
+  "name": "opplus-payment-advice",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "88cf5d4c-8afc-4a98-9cb7-212196c51d74",
+      "name": "OPplus 365",
+      "publisher": "gbedv GmbH & Co. KG",
+      "version": "18.1800.20210420.0"
+    },
+    {
+      "id": "f4b69b55-c90d-4937-8f53-2742898fa948",
+      "name": "Continia Document Output 365",
+      "publisher": "Continia Software",
+      "version": "4.5.0.2"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://opplus-payment-advice.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
