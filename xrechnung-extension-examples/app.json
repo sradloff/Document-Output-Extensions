@@ -1,0 +1,46 @@
+{
+  "id": "288b40f6-cc63-47ed-aed1-e9345d6ab8d8",
+  "name": "CDO Hotfix Extension",
+  "publisher": "Continia Software GmbH",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4b915d7e-c02a-435f-85ab-649086c1e002",
+      "name": "Continia Core",
+      "publisher": "Continia Software",
+      "version": "4.0.0.0"
+    },
+    {
+      "id": "0745e76d-0b72-4641-87c2-ee45db5d2c32",
+      "name": "Continia Delivery Network",
+      "publisher": "Continia Software",
+      "version": "1.2.0.3"
+    },
+    {
+      "id": "f4b69b55-c90d-4937-8f53-2742898fa948",
+      "name": "Continia Document Output 365",
+      "publisher": "Continia Software",
+      "version": "4.5.0.2"
+    }
+    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Code.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
